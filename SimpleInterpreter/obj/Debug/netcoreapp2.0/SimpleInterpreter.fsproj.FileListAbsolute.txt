@@ -1,0 +1,7 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\F# workspace\TestProjectFSharp\SimpleInterpreter\bin\Debug\netcoreapp2.0\SimpleInterpreter.deps.json
+C:\Users\Naxxo\OneDrive\Programming workspace\F# workspace\TestProjectFSharp\SimpleInterpreter\bin\Debug\netcoreapp2.0\SimpleInterpreter.runtimeconfig.json
+C:\Users\Naxxo\OneDrive\Programming workspace\F# workspace\TestProjectFSharp\SimpleInterpreter\bin\Debug\netcoreapp2.0\SimpleInterpreter.runtimeconfig.dev.json
+C:\Users\Naxxo\OneDrive\Programming workspace\F# workspace\TestProjectFSharp\SimpleInterpreter\bin\Debug\netcoreapp2.0\SimpleInterpreter.dll
+C:\Users\Naxxo\OneDrive\Programming workspace\F# workspace\TestProjectFSharp\SimpleInterpreter\bin\Debug\netcoreapp2.0\SimpleInterpreter.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\F# workspace\TestProjectFSharp\SimpleInterpreter\obj\Debug\netcoreapp2.0\SimpleInterpreter.dll
+C:\Users\Naxxo\OneDrive\Programming workspace\F# workspace\TestProjectFSharp\SimpleInterpreter\obj\Debug\netcoreapp2.0\SimpleInterpreter.pdb

@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="StackModule.fs" />
+    <Compile Include="PCLExam2018.fs" />
+    <Compile Include="PCLTestExam2.fs" />
+    <Compile Include="PCLTestExam.fs" />
+    <Compile Include="Ex1.fs" />
+    <Compile Include="Ex2.fs" />
+    <Compile Include="Ex3.fs" />
+    <Compile Include="Ex4.fs" />
+    <Compile Include="Ex5.fs" />
+    <Compile Include="Ex6.fs" />
+    <Compile Include="Session6.fs" />
+    <Compile Include="Session5.fs" />
+    <Compile Include="Session4.fs" />
+    <Compile Include="Session3.fs" />
+    <Compile Include="Session2.fs" />
+    <Compile Include="Session1.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2\System.Windows.Forms.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="4.3.4" />
+  </ItemGroup>
+
+</Project>
